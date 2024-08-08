@@ -1,7 +1,7 @@
 # Chocolate Chip Cookie Recipe
 
 ## Ingredients
-- 1 cup salted butter
+- 1 cup salted butter (add 1/2 tsp of salt if unsalted)
 - 1 ¼ cups white sugar
 - 1 ¼ cups packed light brown sugar
 - 3 teaspoons vanilla
