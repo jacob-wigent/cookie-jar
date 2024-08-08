@@ -6,9 +6,9 @@
 - 1 ¼ cups packed light brown sugar
 - 3 teaspoons vanilla
 - 2 eggs
-- 3 ½ cups flour
+- 3 cups flour
 - 1 teaspoon baking soda
-- ¾ teaspoon baking powder
+- ½ teaspoon baking powder
 - 1 teaspoon salt
 - ~14 oz (about 400 g) chocolate chunks (60%-70% cocoa)
 
