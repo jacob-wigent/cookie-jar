@@ -4,7 +4,7 @@
 
 ## 🍪 Recipes
 
-- [Chocolate Chunk Cookies](./chocolate_chunk_cookies.md)
+- [Chocolate Chip Cookies](./chocolate_chunk_cookies.md)
 
 _(More recipes will be added as the collection grows!)_
 
