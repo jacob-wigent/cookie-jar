@@ -1,10 +1,6 @@
-# Open Cookies 🍪
+# Cookie Jar 🍪
 
-**Open Cookies** is a collection of open-source recipes designed to be accessible, adaptable, and delicious. This repository is a collaborative space for sharing and improving recipes, ensuring that everyone can enjoy great baking.
-
-## 🍪 About
-
-This repository primarily features a variety of cookie recipes, starting with the classic Chocolate Chunk Cookies. The goal is to create a comprehensive and reliable resource for bakers of all skill levels. Contributions are welcome, whether you want to add new recipes, tweak existing ones, or fix errors.
+**Cookie Jar** is a collection of cookie recipes designed to be accessible, adaptable, and delicious. Using version control for recipes makes it easy to refine and adapt recipes over time to perfect the perfect cookie.
 
 ## 🍪 Recipes
 
@@ -14,7 +10,7 @@ _(More recipes will be added as the collection grows!)_
 
 ## 🤝 How to Contribute
 
-Contributions are welcome! Here’s how you can get involved:
+Contributions are welcome! Here’s how you can get contribute:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
 
@@ -28,8 +24,4 @@ Contributions are welcome! Here’s how you can get involved:
 
 1. Browse the [Recipes](#-recipes) section.
 2. Click on a recipe to view details and instructions.
-3. Bake, enjoy, and share your creations with the world!
-
----
-
-Thank you for contributing to **Open Cookies** and helping to build a collaborative, open-source baking resource!
+3. Bake and enjoy!
